@@ -14,9 +14,14 @@
  * task, not resume it from where it left off.
  */
 void opcontrol() {
-	while(1){
-	pros::Motor left_mtr(1);
-	pros::Motor right_mtr(2);
+
+/*
+this is
+the best
+code ever
+made in the
+world
+*/
 		pros::delay(20);
-	}
+	
 }
